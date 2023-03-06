@@ -1,6 +1,12 @@
-# Hi there!!, I'm Chinchu 
+# Hi there👋!!!, I'm Chinchu
+
       A passionate Front end Developer from India
+      
 # 💫 About Me:
+[![](https://visitcount.itsvg.in/api?id=CHINCHU321&icon=1&color=11)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 🔭I’m currently working on Ecommerce App<br><br>🌱 I’m currently learning New technologies<br><br>💬 Ask me about HTML, CSS, SASS, JavaScript, ReactJS<br><br>📫 How to reach me chinchubabuofficial@gmail.com
 
 
@@ -24,6 +30,4 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CHINCHU321&icon=1&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

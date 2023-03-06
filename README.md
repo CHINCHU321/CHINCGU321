@@ -1,6 +1,6 @@
 # Hi there!!
 # 💫 About Me:
- I’m currently working on Ecommerce App<br><br>🌱 I’m currently learning New technologies<br><br>💬 Ask me about HTML, CSS, JavaScript, ReactJS<br><br>📫 How to reach me chinchubabuofficial@gmail.com
+🔭I’m currently working on Ecommerce App<br><br>🌱 I’m currently learning New technologies<br><br>💬 Ask me about HTML, CSS, SASS, JavaScript, ReactJS<br><br>📫 How to reach me chinchubabuofficial@gmail.com
 
 
 ## 🌐 Socials:
@@ -14,15 +14,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CHINCHU321&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CHINCHU321&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=CHINCHU321&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CHINCHU321&icon=0&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=CHINCHU321&icon=1&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

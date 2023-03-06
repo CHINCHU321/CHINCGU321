@@ -1,6 +1,12 @@
-# Hi there👋!!!, I'm Chinchu
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://chinchu321.io)
+<h1 align="center">Hi 👋, I'm Chinchu</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-      A passionate Front end Developer from India
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chinchu321&label=Profile%20views&color=0e75b6&style=flat" alt="chinchu321" /> </p>
+
+
       
 # 💫 About Me:
 [![](https://visitcount.itsvg.in/api?id=CHINCHU321&icon=1&color=11)](https://visitcount.itsvg.in)

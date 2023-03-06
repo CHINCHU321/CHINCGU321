@@ -1,4 +1,5 @@
-# Hi there!!
+# Hi there!!, I'm Chinchu 
+      A passionate Front end Developer from India
 # 💫 About Me:
 🔭I’m currently working on Ecommerce App<br><br>🌱 I’m currently learning New technologies<br><br>💬 Ask me about HTML, CSS, SASS, JavaScript, ReactJS<br><br>📫 How to reach me chinchubabuofficial@gmail.com
 

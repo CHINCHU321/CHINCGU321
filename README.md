@@ -26,6 +26,8 @@
 </a> </p>
 
 # 📊 GitHub Stats:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=CHINCHU321&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false" alt="chinchu321" /></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinchu321&show_icons=true&locale=en&layout=compact" alt="chinchu321" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinchu321&" alt="chinchu321" /></p>

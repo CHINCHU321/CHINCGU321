@@ -9,7 +9,7 @@
    
 # 💫 About Me:
 
-🔭I’m currently working on react projects<br><br>🌱 I’m currently learning New technologies<br><br>💬 Ask me about HTML, CSS, SASS, JavaScript, ReactJS<br><br>📫 How to reach me chinchubabuofficial@gmail.com
+🔭I’m currently working on react projects<br><br>🌱 I’m currently learning New technologies<br><br>💬 Ask me about HTML, CSS, JavaScript, ReactJS<br><br>📫 How to reach me chinchubabuofficial@gmail.com
 
 
 ## 🌐 Socials:
